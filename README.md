@@ -2,7 +2,7 @@
 ## react-native redux rtk query 
 https://www.youtube.com/watch?v=-8WEd578fFw
 
-# Back End API
+## Back End API
 
 ```bash
 https://dummyjson.com/products
@@ -18,11 +18,12 @@ https://dummyjson.com/products
 
 ```bash
  yarn install && npx pod-install && yarn ios
+
+ Press the button, the products are shown in console.log
 ```
 
-Press the button, the products are shown in console.log
 
-itional packages added
+### additional packages added
 
 ```bash
  yarn add react-redux @reduxjs/toolkit
