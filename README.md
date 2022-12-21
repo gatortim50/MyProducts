@@ -1,5 +1,5 @@
 # MyProducts
-## react-native redux rtk query 
+## react-native redux-rtk query 
 https://www.youtube.com/watch?v=-8WEd578fFw
 
 ## Back End API
